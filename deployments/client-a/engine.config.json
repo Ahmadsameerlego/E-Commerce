@@ -1,0 +1,9 @@
+{
+  "clientName": "Client A Store",
+  "theme": "fashion-theme",
+  "currency": "EGP",
+  "features": {
+    "wishlist": true,
+    "reviews": false
+  }
+}

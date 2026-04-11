@@ -1,0 +1,10 @@
+{
+  "name": "multi-tenant-ecommerce",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "backend",
+    "frontends/*",
+    "shared"
+  ]
+}
